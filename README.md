@@ -2,40 +2,6 @@
 
 > A browser-based monitor dashboard for GitLab CI
 
-## Use & Download
-
-### Hosted version
-
-If you don't want to setup your own server, you can always
-use the latest version of GitLab Monitor I upload here:
-
-<https://gitlab-monitor.timoschwarzer.com/>
-
-Don't worry, I don't save access tokens or anything else.
-Additionally, this version has a manifest.json attached which
-makes it easy to pin it to your Android home screen and open
-it as a full screen app.
-
-[**Support me on Patreon**](https://www.patreon.com/timoschwarzer)
-
-### Docker
-
-[![dockeri.co](https://dockeri.co/image/timoschwarzer/gitlab-monitor)](https://hub.docker.com/r/timoschwarzer/gitlab-monitor)
-
-There's an official docker image available on [Dockerhub](https://hub.docker.com/r/timoschwarzer/gitlab-monitor/):
-```
-docker pull timoschwarzer/gitlab-monitor
-```
-
-### Host it yourself
-
-[Go to releases](https://github.com/timoschwarzer/gitlab-monitor/releases)
-
-## Screenshots
-
-![Screenshot 1](/../resources/screenshots/screenshot1.png?raw=true)
-![Screenshot 2](/../resources/screenshots/screenshot2.png?raw=true)
-
 ## Build Setup
 
 ``` bash
@@ -59,4 +25,3 @@ See [configuration](./CONFIGURATION.md).
 - [vue-octicon](https://github.com/Justineo/vue-octicon)
 - [GitLab SVG icons](https://gitlab.com/gitlab-org/gitlab-svgs)
 
-### Visit my [website](https://timoschwarzer.com)!
